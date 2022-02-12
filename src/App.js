@@ -36,6 +36,7 @@ function App() {
         setActiveGenre={setActiveGenre} />
 
       <motion.div
+        animate = {{y : 100}}
         layout
         className="popular-movies">
         <AnimatePresence>
