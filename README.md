@@ -1,5 +1,5 @@
 <div align="center">
-<h1>What to watch 🍿</h1>
+<h1>What to watchs 🍿</h1>
 </div>
 
 The Movie Database [(TMDB)](https://developers.themoviedb.org/3/getting-started/introduction) is a popular, user editable database for movies and TV shows.
