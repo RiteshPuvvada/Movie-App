@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
 
 .popular-movies{
   display: grid;
@@ -16,12 +17,19 @@ img{
 }
 
 h2 {
-  font-family: 'Concert One',cursive;
-  color: #386e6e;
-  font-size: 0.8rem;
+  font-family: 'Fjalla One', sans-serif;
+  color: #c7493a;
+  font-size: 0.9rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
+h3 {
+  font-family: 'Oleo Script', cursive;  
+  color: #386e6e;
+  font-size: 0.8rem;
+  margin-bottom: 1rem;
+}
+
 
 .btn {
   margin-right: 2rem;
